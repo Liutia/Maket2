@@ -106,10 +106,10 @@ a{
     color: white;
     text-decoration: none;
 }
-
 .slider {
-    z-index: -1;
+    z-index: -2;
     margin-top: -62px;
+    background-color: #f8f8f8;
 }
 .sliderC {
     height: 462px;
