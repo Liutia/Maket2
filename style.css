@@ -90,6 +90,14 @@ menu {
     flex-wrap: wrap;
     justify-content: center;
 }
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.menulink{
+    display: inline;
+}
 .link{
     margin: 4px 9px;
 }
