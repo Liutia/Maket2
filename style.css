@@ -9,6 +9,10 @@ body {
     display: flex;
     flex-direction: column;
 }
+@font-face {
+    font-family: "PT Sans";
+    src: url(./Fonts/PTSans-Regular.ttf);
+}
 
 @font-face {
     font-family: "OpenSansCondensed";
@@ -55,7 +59,7 @@ header{
     display: flex;
     margin-left: auto;
     justify-content: right;
-    padding-top: 65px;
+    padding-top: 77px;
     padding-right: 1px;
 }
 
